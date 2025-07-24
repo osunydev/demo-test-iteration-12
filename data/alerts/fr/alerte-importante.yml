@@ -1,0 +1,13 @@
+---
+title: >-
+  Alerte importante
+level: danger
+content: >-
+  <p>Lorem ipsum !</p>
+button:
+  title: >-
+    Voir ici
+  url: >-
+    https://www.google.fr
+  target_blank: true
+---
