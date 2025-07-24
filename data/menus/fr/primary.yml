@@ -55,6 +55,6 @@ items:
   kind: page
   new_tab: false
   children: []
-  path: "/pages/page-ajoutee"
-  file: content/fr/pages/page-ajoutee/_index.html
+  path: 
+  file: 
 
