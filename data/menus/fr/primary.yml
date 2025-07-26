@@ -50,18 +50,4 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Page ajoutée
-  target: "/page-ajoutee/"
-  kind: page
-  new_tab: false
-  children: []
-  path: 
-  file: 
-- title: Page ajoutée 2
-  target: "/page-ajoutee-2/"
-  kind: page
-  new_tab: false
-  children: []
-  path: 
-  file: 
 
