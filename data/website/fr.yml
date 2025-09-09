@@ -1,0 +1,38 @@
+default:
+contents_reading_time:
+  seconds: 1
+  text: >-
+    moins d'une minute
+contents:
+  - kind: block
+    template: chapter
+    title: >-
+      Bloc du footer
+    slug: >-
+      bloc-du-footer
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Bloc du footer
+        heading: 2
+    data:
+      layout: no_background
+      text: >-
+        <p>Lorem ipsum</p>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
