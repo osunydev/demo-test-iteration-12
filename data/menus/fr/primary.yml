@@ -1,6 +1,13 @@
 ---
 title: Menu principal
 items:
+- title: Offres d'emploi
+  target: "/offres-d-emploi/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/jobs"
+  file: content/fr/jobs/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
@@ -43,11 +50,11 @@ items:
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Offres d'emploi
-  target: "/offres-d-emploi/"
+- title: Test paranoia
+  target: "/test-paranoia/"
   kind: page
   new_tab: false
   children: []
-  path: "/jobs"
-  file: content/fr/jobs/_index.html
+  path: "/pages/test-paranoia"
+  file: content/fr/pages/test-paranoia/_index.html
 
