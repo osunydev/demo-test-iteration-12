@@ -19,6 +19,7 @@ contents:
         value: >-
           Bloc du footer
         heading: 2
+
     data:
       layout: no_background
       text: >-
